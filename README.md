@@ -14,7 +14,7 @@ Entertainment, and Recreation sector.
 
 <hr>
 
-<b> - spring-backend</b>
+<b> - Spring Backend</b>
 
 Spring Boot Web Java backend application that exposes a REST API to
 manage hobbies. Its secured endpoints can just be accessed if an access
@@ -24,7 +24,7 @@ spring-backend stores its data in a MySql database.
 
 spring-backend has the following endpoints
 
-<b>-react-frontend</b>
+<b>- React Frontend</b>
 
 ReactJS frontend application where users can find and save hobbies and businesses can manage offers. In order to access the application, user / business must login using his/her username and password. All the requests coming from react-frontend to secured endpoints in spring-backend have a access token (JWT) that is generated when user / business logs in.
 
